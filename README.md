@@ -59,6 +59,11 @@ Representan menos del 2% de los ingresos totales, evidenciando una oportunidad d
 Se procesaron más de 21,350 órdenes con una facturación total de $817,860 USD, lo que valida la representatividad del análisis.
 
 ---
+## 📊 Dashboard
+
+![Dashboard Preview](dashboard_preview.png)
+
+---
 
 ## 📂 Dataset
 
